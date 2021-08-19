@@ -1,4 +1,4 @@
- ## 👋 Oiii! Eu sou a Rodrigo Lopes.
+ ## 👋 Olá! Eu sou o Rodrigo Lopes.
  <div>
   <a href="https://github.com/rlopeslameira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlopeslameira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
