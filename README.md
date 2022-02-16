@@ -1,6 +1,9 @@
  ## 👋 Olá! Eu sou o Rodrigo Lopes.
 Sou Desenvolvedor desde 2003, com experiência em Sistemas para Aplicações Comerciais Cliente/Servidor. Desenvolvo aplicações em C#, PHP, React e React Ntive. 
 Tenho conhecimento em bancos PostgreSQL, MySql, Sql Server, Firebase e MongoDB.
+
+Minha atuação nos últimos anos foi voltada para a manutenção e aprimoramento de rotinas na aplicação web e mobile de um sistema de Gestão Escolar. (React e React Native) e atualmente estou buscando mais conhecimento relacionados a DevOps, Clean Code e Testes.
+
 ##
 <div>
   <a href="https://github.com/rlopeslameira">
